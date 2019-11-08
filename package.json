@@ -1,0 +1,21 @@
+{
+    "name": "gruvbox-grayer",
+    "displayName": "gruvbox-grayer",
+    "description": "GruvBox Theme with a bit more gray",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.40.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Gruvbox Grayer",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Gruvbox Grayer-color-theme.json"
+            }
+        ]
+    }
+}
